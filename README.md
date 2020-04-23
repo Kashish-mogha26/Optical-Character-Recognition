@@ -1,3 +1,3 @@
 # Optical-Character-Recognition
 
-Extraxcting Text from images.
+Extraxcting Text from images. Here, I used photos of marksheet.
